@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\setupProject\DoAnLTWindow.exe
+C:\Users\Admin\Desktop\setupProject\DoAnLTWindow.dll
+C:\Users\Admin\Desktop\setupProject\DoAnLTWindow.deps.json
+C:\Users\Admin\Desktop\setupProject\DoAnLTWindow.runtimeconfig.json
+C:\Users\Admin\Desktop\setupProject\DoAnLTWindow.pdb
+C:\Users\Admin\Desktop\setupProject\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\setupProject\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\setupProject\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\setupProject\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\setupProject\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\setupProject\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\setupProject\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

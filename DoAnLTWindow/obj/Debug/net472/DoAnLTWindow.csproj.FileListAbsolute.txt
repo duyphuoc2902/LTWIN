@@ -1,0 +1,15 @@
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.csproj.AssemblyReference.cache
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmAccProfile.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmAdmin.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmChangeTablecs.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmcustomerMoney.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmLogin.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.FrmOrder.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.frmQuanLy.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.FrmReport.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.Properties.Resources.resources
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.csproj.GenerateResource.cache
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.AssemblyInfoInputs.cache
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.AssemblyInfo.cs
+C:\Users\tanda\Downloads\DisplayListOfFoods(Admin)\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net472\DoAnLTWindow.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1498 @@
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\DoAnLTWindow\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\New folder\46.01.104.221_Nhom5_QuanLyNhaHang\SourceCode\DoAnLTWindow\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\MonThu4-main\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\HỌC Ở TRƯỜNG\NĂM 3\PTTK HĐT\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\xampp\htdocs\PTKT HĐT_Nhóm 3\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\xampp\htdocs\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\PTKT\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\PTKT\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\RestaurantApp\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\RestaurantApp\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\LoginFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\LoginFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DisplayAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\EditAccInfor\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\EditAccInfor\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DisplayListFoods\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListTables\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DisplayListTables\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\AddBillIntoTable\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\ChangeStatusOfTable1\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\ChangeStatusOfTable2\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\GUI\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\GUI\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugUpdateAccInforFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\PaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\PaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\OrderTable\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\OrderTable\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugChangeStatusOfTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugPaymentFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugOrderTableFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\ChangeTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\ShowBillAfterPaymentFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\FindBookingTableFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugFindBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugCancelBookingTableFeatureFixed\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DisplayListOfFoods(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DisplayListOfAccounts(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\StatisticsOfPaidBillsFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BindingData\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BindingData\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\FindFoodByNameFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\InsertFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\UpdateFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DeleteFoodFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\BugInsertFoodFixed(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\InsertAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\UpdateAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\DeleteAccountFeature(Admin)\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Download\ResetPassFeature\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.exe
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.deps.json
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.json
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.runtimeconfig.dev.json
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.AssemblyReference.cache
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAccProfile.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmAdmin.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmChangeTablecs.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmcustomerMoney.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmLogin.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmOrder.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.frmQuanLy.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.FrmReport.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.Properties.Resources.resources
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.GenerateResource.cache
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfoInputs.cache
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.AssemblyInfo.cs
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CoreCompileInputs.cache
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.csproj.CopyComplete
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\refint\DoAnLTWindow.dll
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.pdb
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\DoAnLTWindow.genruntimeconfig.cache
+D:\Testfile_CMPM\46.01.104.221_Nhom5_QuanLyNhaHang\Meta_Agile\DoAnLTWindow\obj\Debug\net5.0-windows\ref\DoAnLTWindow.dll
